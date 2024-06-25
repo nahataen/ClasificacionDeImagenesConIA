@@ -51,7 +51,7 @@ Inserta una captura de pantalla o un gif animado que muestre la interfaz en acci
 ## Uso
 1. Ejecuta la aplicación:
    ```bash
-   python app.py
+   python clasificar imagenes con google vision.py
    ```
 2. Abre el navegador y navega a la URL proporcionada por Gradio.
 3. Sube una o más imágenes para ver la clasificación automática.
